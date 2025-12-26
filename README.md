@@ -1,4 +1,4 @@
-# Pipelined MIPS CPU VHDL Project
+# Pipelined MIPS CPU 
 
 ## Overview
 
